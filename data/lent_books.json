@@ -1,0 +1,15 @@
+[
+    {
+        "book": {
+            "title": "First",
+            "authors": [
+                "Deitel"
+            ],
+            "isbn": "ES45",
+            "year": 2007,
+            "price": 88,
+            "quantity": 0
+        },
+        "borrower": "Monir Hossain"
+    }
+]
